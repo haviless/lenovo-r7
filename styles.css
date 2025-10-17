@@ -1,0 +1,56 @@
+.rounded-blue {
+    display: flex;
+    border: 5px solid blue;
+    padding: 10px;
+}
+
+.big-font {
+    font-size: 62px;
+}
+
+.bg-darkblue {
+    background-color: rgb(0, 0, 139);
+}
+
+.bg-black {
+    background-color: #0000;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-cyan {
+    background-color: cyan;
+}
+
+.big-text-underline {
+    text-decoration: line-through; font-size: 62px;
+}
+
+.big-text {
+    font-size: 62px;
+}
+
+.big-text-green {
+  color: #66FF33;              /* Fucsia brillante */
+  font-size: 62px;             /* Letras grandes */
+  font-weight: bold;           /* Negrita para más impacto */
+  text-align: center;          /* Centrado del texto */
+  padding: 40px;               /* Espaciado interno */
+  border-radius: 12px;         /* Bordes redondeados opcional */
+}
+
+.big-text-red {
+  color: red;              /* Fucsia brillante */
+  font-size: 62px;             /* Letras grandes */
+  font-weight: bold;           /* Negrita para más impacto */
+  text-align: center;          /* Centrado del texto */
+  padding: 40px;               /* Espaciado interno */
+  border-radius: 12px;         /* Bordes redondeados opcional */
+}
+
+.img-autosize{
+    width: 100%;
+    height: auto;
+}
